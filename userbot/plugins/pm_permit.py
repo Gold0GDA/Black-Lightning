@@ -49,7 +49,7 @@ FUCK_OFF_WARN = f"**You Have Been Blocked By Darling Protector❤️\n\n **IDC**
 
 
 OVER_POWER_WARN = (
-    f"**Hey Baby, Im Darling Protector. Im Here To Protect My Darling** \n\n"
+    f"**Hello Sir, Im Darling Protector. Im Here To Protect My Darling** \n\n"
     f"`My Darling {LIGHTNINGUSER} Is Busy With Me❤️` \n"
     f"Now, Tell Me Why You Are Here? \n"
     f"**Make Sure You Dont Spam Because Darling May Got Angry **❤️ \n\n"
